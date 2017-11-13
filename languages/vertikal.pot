@@ -1,0 +1,1274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertikal v1.1\n"
+"POT-Creation-Date: 2014-04-15 16:41+0330\n"
+"PO-Revision-Date: 2014-04-15 16:41+0330\n"
+"Last-Translator: Iman <support@themique.com>\n"
+"Language-Team: ImanGM <credo61@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "404 File Not Found!"
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"Oops! The page you are looking for could not be found! Maybe you want to "
+"search for it?"
+msgstr ""
+
+#: ../comments.php:13
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed here."
+msgstr ""
+
+#: ../comments.php:42 ../comments.php:77
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:47
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:57
+msgid "name"
+msgstr ""
+
+#: ../comments.php:58
+msgid "email"
+msgstr ""
+
+#: ../comments.php:59
+msgid "website"
+msgstr ""
+
+#: ../comments.php:64
+msgid "message"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Add comment"
+msgstr ""
+
+#: ../footer.php:24 ../footer.php:41
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Edit Post"
+msgstr ""
+
+#: ../header.php:122
+msgid "Search the Site"
+msgstr ""
+
+#: ../header.php:303
+msgid "Search and hit Enter!"
+msgstr ""
+
+#: ../header.php:332
+msgid "Menu"
+msgstr ""
+
+#: ../includes/framework/authors.php:6
+msgid "Google Profile URL"
+msgstr ""
+
+#: ../includes/framework/authors.php:7
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../includes/framework/authors.php:8
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: ../includes/framework/authors.php:9
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:28
+msgid "Home"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:29 ../index.php:100 ../index.php:111
+msgid "Archive by Category"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:30
+msgid "Search Results for"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:31
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:32 ../index.php:105
+msgid "Articles Posted by"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:33
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/framework/breadcrumb.php:166
+msgid "Page"
+msgstr ""
+
+#: ../includes/framework/functions.php:191
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/framework/functions.php:199
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/framework/menu.php:5
+msgid "Header Menu"
+msgstr ""
+
+#: ../includes/framework/menu.php:34
+msgid "Please setup your menu"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:34
+msgid "Default (Theme Options)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:35
+#: ../includes/framework/meta-boxes.php:79
+#: ../includes/framework/sidebars.php:11
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:36
+#: ../includes/framework/meta-boxes.php:74
+#: ../includes/framework/sidebars.php:22
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:55
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:63
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:84
+msgid "Full Width"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:89
+msgid "Default (Read From Theme Options)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:95
+msgid "Choose Sidebar (If appliable)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:123
+msgid "Featured Image Settings"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:155
+msgid "Gallery Post Format"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:184
+msgid "Author Options"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:191
+msgid "Author Information Box"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:194
+msgid ""
+"Do you want your visitors see the author information box in bottom of this "
+"post?"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:202
+#: ../includes/framework/meta-boxes.php:499
+msgid "Default (Read from theme options)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:206
+#: ../includes/framework/meta-boxes.php:503 ../includes/theme-options.php:1434
+#: ../includes/theme-options.php:1775 ../includes/theme-options.php:2117
+msgid "Show"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:210
+#: ../includes/framework/meta-boxes.php:507 ../includes/theme-options.php:1438
+#: ../includes/theme-options.php:1779 ../includes/theme-options.php:2121
+msgid "Hide"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:219
+msgid "Review Post Type"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:226
+msgid "Enable as a Review"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:229
+msgid "Configure this post as a review?"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:236
+#: ../layouts/blog/content-post.php:237
+#: ../layouts/portfolio/content-post.php:143
+msgid "Overall Rating"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:239
+msgid "Rate this post from 0 to 10"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:250
+msgid "Rating Title"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:253
+msgid "Enter review title here. Such as Very Good! Fantastic! Awesome!"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:264
+msgid "Review Overview Text"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:265
+msgid ""
+"Tell what you feel about what you have reviewed in this post in a few words"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:276
+msgid "Review Items (Optional)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:289
+msgid "Your Rate (Percent)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:292
+msgid "Rate this item in percent."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:307
+msgid "Slider Settings"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:314
+msgid "Slider Type"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:317 ../includes/theme-options.php:1509
+msgid "How should this page deal with Sliders?"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:325 ../includes/theme-options.php:1518
+#: ../includes/theme-options.php:2291
+msgid "None"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:329 ../includes/theme-options.php:1522
+#: ../includes/theme-options.php:2295
+msgid "Text and Background"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:333 ../includes/theme-options.php:1526
+#: ../includes/theme-options.php:2299
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:337 ../includes/theme-options.php:1530
+#: ../includes/theme-options.php:2303
+msgid "Flex Slider"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:342
+msgid "Page / Post Heading"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:345
+msgid "The Main Title of this Page or Post."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:354
+msgid "Page / Post Subtitle"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:357
+msgid ""
+"The second line in the banner area. A quick description about this page/"
+"post. Use at most 10 words."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:441 ../includes/theme-options.php:1637
+#: ../includes/theme-options.php:2410
+msgid "Upload Background Image for Banner Area"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:444 ../includes/theme-options.php:1640
+#: ../includes/theme-options.php:2413
+msgid ""
+"Upload image to set it as the background image of the banner area.<br><br> "
+"This will only work if <strong>Text and Background</strong> is set as "
+"<strong>Slider Type</strong>."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:453 ../includes/theme-options.php:1651
+#: ../includes/theme-options.php:2424
+msgid "Choose Revolution Slider to Show"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:456 ../includes/theme-options.php:1654
+#: ../includes/theme-options.php:2427
+msgid ""
+"Choose a revolution slider which you have built previously.<br><br> This "
+"will only work if <strong>Revolution Slider</strong> is set as "
+"<strong>Slider Type</strong>."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:465 ../includes/theme-options.php:1665
+#: ../includes/theme-options.php:2438
+msgid "Upload Images for Flex Slider"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:468 ../includes/theme-options.php:1668
+#: ../includes/theme-options.php:2441
+msgid "Uplad images to be used in flex slider."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:481
+msgid "Related Posts Options"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:488
+#: ../layouts/blog/content-related-posts-loop.php:73
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:491
+msgid "Show related post at the end of the current post."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:516
+msgid "Themique Team Member Options"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:523
+msgid "Member Position"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:526
+msgid "Enter member position in the Company."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:533
+msgid "Facebook Profile"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:536
+msgid ""
+"Member's Facebook profile url. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:543
+msgid "Twitter Page"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:546
+msgid "Member's Twitter page url. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:553
+msgid "Google Plus Page"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:556
+msgid "Member's Google+ page url. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:563
+msgid "LinkedIn Page"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:566
+msgid "Member's LinkedIn page url. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:573
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:576
+msgid "Member's Website url. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:583
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:586
+msgid "Member's Email address. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:593
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:596
+msgid "Member's Phone Number. Enter \"none\" to do not include this item."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:607
+msgid "Themique Testimonials Options"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:614
+msgid "Author Company"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:617
+msgid "Company name of testimonial author"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:624
+msgid "Author Role / Job"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:627
+msgid "Role of the testimonial author in the company"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:634
+msgid "Author Email"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:637
+msgid "Email address of the testimonial author"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:644
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:647
+msgid "What did he/she said?"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:658
+msgid "Themique Price Table Items"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:665
+msgid "List of Items"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:676
+msgid "Is Featured"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:679
+msgid ""
+"Is this the most recommended package that you want to offer? Will style "
+"different."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:687
+msgid "Price"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:690
+msgid "e.g. $10.99/month"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:698
+msgid "Feature #1"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:701
+#: ../includes/framework/meta-boxes.php:712
+#: ../includes/framework/meta-boxes.php:723
+#: ../includes/framework/meta-boxes.php:734
+#: ../includes/framework/meta-boxes.php:745
+#: ../includes/framework/meta-boxes.php:756
+msgid "Any feature you wish"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:709
+msgid "Feature #2"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:720
+msgid "Feature #3"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:731
+msgid "Feature #4"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:742
+msgid "Feature #5"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:753
+msgid "Feature #6"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:764
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:767
+msgid "e.g. SIGN UP! / ORDER NOW! / MORE"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:775
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:778
+msgid "Link of the Table Button"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:791
+msgid "Themique Clients List"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:798
+msgid "Clients List"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:809
+msgid "Logo"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:812
+msgid "Upload client's logo here."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:819
+msgid "Link to Website"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:822
+msgid "Leave empty or enter \"none\" to ignore this item"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:835
+msgid "Post Formats (LINK)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:842
+msgid "URL to Link"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:845
+msgid "Enter link URL which you want the Link Post Format links to it."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:856
+msgid "Post Formats (AUDIO)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:863
+msgid "Audio Source"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:866
+msgid ""
+"What is the source of audio file which you want to put it into your site?"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:874
+msgid "Third Party (SoundCloud)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:878
+msgid "Hosted"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:883
+msgid "(SoundCloud) Enter Embed Code"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:886
+msgid "Enter the embed code from SoundCloud website."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:894
+msgid "(Hosted) Upload Audio File"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:897
+msgid "Upload audio file for audio format post here."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:908
+msgid "Video Post Formats"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:915
+msgid "Video Post Format"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:918
+msgid ""
+"<strong>Youtube Video URL</strong><br><hr>Enter youtube video URL (Only "
+"works in video post format)."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:938
+msgid "Post Formats (QUOTE)"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:945
+msgid "Quoted Text"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:948
+msgid "Enter quoted text here."
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:956
+msgid "Quoted From"
+msgstr ""
+
+#: ../includes/framework/meta-boxes.php:959
+msgid "Enter the person name who this text is quoted from him/her."
+msgstr ""
+
+#: ../includes/framework/ot.php:1018
+msgid "Choose One"
+msgstr ""
+
+#: ../includes/framework/ot.php:1023
+msgid "No Sliders Found"
+msgstr ""
+
+#: ../includes/framework/ot.php:1027
+msgid "Sorry! Revolution Slider is not Installed or Activated"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:12
+msgid "The widgets that will place at right sidebar"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:23
+msgid "The widgets that will place at left sidebar"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:33
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:34 ../includes/framework/sidebars.php:45
+#: ../includes/framework/sidebars.php:56
+msgid "The widgets that will place at website footer"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:44
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:55
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:66
+msgid "Toggle Bar 1"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:67 ../includes/framework/sidebars.php:78
+#: ../includes/framework/sidebars.php:89
+#: ../includes/framework/sidebars.php:100
+msgid "The widgets that will place at website header toggle bar"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:77
+msgid "Toggle Bar 2"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:88
+msgid "Toggle Bar 3"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:99
+msgid "Toggle Bar 4"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:110
+msgid "Under Menu"
+msgstr ""
+
+#: ../includes/framework/sidebars.php:111
+msgid "The widgets that will place under main menu of the site"
+msgstr ""
+
+#: ../includes/framework/tgm.php:73
+#: ../includes/tgm/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/framework/tgm.php:74
+#: ../includes/tgm/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/framework/tgm.php:75
+#: ../includes/tgm/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/framework/tgm.php:76
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/framework/tgm.php:87
+#: ../includes/tgm/class-tgm-plugin-activation.php:180
+#: ../includes/tgm/class-tgm-plugin-activation.php:511
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/framework/tgm.php:88
+#: ../includes/tgm/class-tgm-plugin-activation.php:181
+#: ../includes/tgm/class-tgm-plugin-activation.php:1909
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/framework/tgm.php:89
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:538
+#: ../includes/tgm/class-tgm-plugin-activation.php:2121
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:566
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:739
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1126
+msgid "External Link"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1131
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1134
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1138
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1141
+msgid "Required"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1141
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1144
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1146
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1148
+msgid "Not Updated"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1150
+msgid "Active"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1344
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1360
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1361
+msgid "Source"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1362
+msgid "Type"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1363
+msgid "Status"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1381
+msgid "Install"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1382
+msgid "Activate"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1892
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1893
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1894
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1895
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1896
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1897
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1908
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2018
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2019
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2019
+#: ../includes/tgm/class-tgm-plugin-activation.php:2028
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2019
+#: ../includes/tgm/class-tgm-plugin-activation.php:2028
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2020
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2021
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2025
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2028
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2029
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:2030
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/theme-options.php:804
+msgid "Default Banner Area Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:808
+msgid ""
+"Set the default setting for pages/posts that slider setting is not "
+"configured for them. Usually for pages or posts that exist on this site "
+"before installing Vertikal."
+msgstr ""
+
+#: ../includes/theme-options.php:816
+msgid "Do not show anything"
+msgstr ""
+
+#: ../includes/theme-options.php:820
+msgid "Show title and subtitle"
+msgstr ""
+
+#: ../includes/theme-options.php:1423
+msgid "Default Status of Author Information Box"
+msgstr ""
+
+#: ../includes/theme-options.php:1426
+msgid ""
+"Do you want your visitors see the author information box in the bottom of "
+"each post? You can override this setting per post."
+msgstr ""
+
+#: ../includes/theme-options.php:1465
+msgid "Comments On Blog Posts"
+msgstr ""
+
+#: ../includes/theme-options.php:1468
+msgid "Do you want to globally enable or disable comments on blog posts?"
+msgstr ""
+
+#: ../includes/theme-options.php:1506 ../includes/theme-options.php:2279
+msgid "Slider Type - Banner Area Setting"
+msgstr ""
+
+#: ../includes/theme-options.php:1536
+msgid "Blog Index Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1539
+msgid "The Main Title of this Page."
+msgstr ""
+
+#: ../includes/theme-options.php:1550
+msgid "Blog Index Page Subtitle"
+msgstr ""
+
+#: ../includes/theme-options.php:1553
+msgid ""
+"The second line in the banner area. A quick description about this page. Use "
+"at most 10 words."
+msgstr ""
+
+#: ../includes/theme-options.php:1679 ../includes/theme-options.php:2045
+msgid "Customize Gallery Post Format"
+msgstr ""
+
+#: ../includes/theme-options.php:1683 ../includes/theme-options.php:2049
+msgid "Do you want to customize gallery post format images?"
+msgstr ""
+
+#: ../includes/theme-options.php:1691 ../includes/theme-options.php:1797
+#: ../includes/theme-options.php:2057 ../includes/theme-options.php:2139
+msgid "No - Use Default - Keep it Simple"
+msgstr ""
+
+#: ../includes/theme-options.php:1695 ../includes/theme-options.php:1801
+#: ../includes/theme-options.php:2061 ../includes/theme-options.php:2143
+msgid "Yes! I want my own settings"
+msgstr ""
+
+#: ../includes/theme-options.php:1715
+msgid "Enable Zoom Effect"
+msgstr ""
+
+#: ../includes/theme-options.php:1719
+msgid "Disable it!"
+msgstr ""
+
+#: ../includes/theme-options.php:1763
+msgid "Default Setting for Related Posts"
+msgstr ""
+
+#: ../includes/theme-options.php:1767 ../includes/theme-options.php:2109
+msgid ""
+"Show related post at the end of the each post. You can override this per "
+"post."
+msgstr ""
+
+#: ../includes/theme-options.php:1785 ../includes/theme-options.php:2127
+msgid "Customize Related Posts"
+msgstr ""
+
+#: ../includes/theme-options.php:1789 ../includes/theme-options.php:2131
+msgid "Do you want to customize related posts?"
+msgstr ""
+
+#: ../includes/theme-options.php:1807 ../includes/theme-options.php:2149
+msgid "Related Posts: Number of Columns for Posts WITH Sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1811 ../includes/theme-options.php:2153
+msgid ""
+"Select the number of columns of the related posts in posts that have sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1821 ../includes/theme-options.php:1849
+#: ../includes/theme-options.php:2163 ../includes/theme-options.php:2191
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/theme-options.php:1825 ../includes/theme-options.php:1853
+#: ../includes/theme-options.php:2167
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/theme-options.php:1831 ../includes/theme-options.php:2173
+msgid "Related Posts: Number of Columns for Posts WITHOUT Sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:1835 ../includes/theme-options.php:2177
+msgid ""
+"Select the number of columns of the related posts in posts that don't have "
+"any sidebar."
+msgstr ""
+
+#: ../includes/theme-options.php:1845 ../includes/theme-options.php:2187
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/theme-options.php:1859
+msgid "Related Posts: Show Image"
+msgstr ""
+
+#: ../includes/theme-options.php:1863
+msgid ""
+"You can remove the image from related posts if you don't want to add "
+"featured image for each post."
+msgstr ""
+
+#: ../includes/theme-options.php:1873
+msgid "Hide it"
+msgstr ""
+
+#: ../includes/theme-options.php:1877
+msgid "Show it"
+msgstr ""
+
+#: ../includes/theme-options.php:1918 ../includes/theme-options.php:1954
+msgid "Left"
+msgstr ""
+
+#: ../includes/theme-options.php:1922 ../includes/theme-options.php:1958
+msgid "Center"
+msgstr ""
+
+#: ../includes/theme-options.php:1926 ../includes/theme-options.php:1962
+msgid "Right"
+msgstr ""
+
+#: ../includes/theme-options.php:2033
+msgid "Comments On Portfolio"
+msgstr ""
+
+#: ../includes/theme-options.php:2036
+msgid "Do you want to enable comments on portfolio items?"
+msgstr ""
+
+#: ../includes/theme-options.php:2105
+msgid "Default Setting for Related Portfolio Items"
+msgstr ""
+
+#: ../includes/theme-options.php:2282
+msgid "How should search results page deal with Sliders?"
+msgstr ""
+
+#: ../includes/theme-options.php:2309
+msgid "Search Results Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:2312
+msgid "The main title of search results Page."
+msgstr ""
+
+#: ../includes/theme-options.php:2323
+msgid "Search Results Page Subtitle"
+msgstr ""
+
+#: ../includes/theme-options.php:2326
+msgid ""
+"The second line in the banner area. A quick description about search results "
+"page. Use at most 10 words."
+msgstr ""
+
+#: ../includes/theme-options.php:2777
+msgid "Import/Export"
+msgstr ""
+
+#: ../includes/theme-options.php:2784 ../includes/theme-options.php:2796
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/theme-options.php:2837
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: ../includes/theme-options.php:2839
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: ../includes/theme-options.php:2841
+msgid "Import Theme Options"
+msgstr ""
+
+#: ../includes/theme-options.php:2872
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: ../layouts/blog/content-author.php:2
+#: ../layouts/portfolio/content-author.php:2
+msgid "About the Author"
+msgstr ""
+
+#: ../layouts/blog/content-author.php:4
+#: ../layouts/portfolio/content-author.php:4
+msgid "Biography"
+msgstr ""
+
+#: ../layouts/blog/content-loop.php:37
+#: ../layouts/portfolio/content-loop.php:37
+msgid "Rating"
+msgstr ""
+
+#: ../layouts/blog/content-loop.php:62
+#: ../layouts/blog/content-related-posts-loop.php:128
+#: ../layouts/portfolio/content-loop.php:62
+msgid "read more"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:188
+msgid "By"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:188
+msgid "In"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:199
+msgid "On"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:204
+msgid "Pages:"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:210
+msgid "Next page"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:211
+msgid "Previous page"
+msgstr ""
+
+#: ../layouts/blog/content-post.php:271
+#: ../layouts/portfolio/content-post.php:177
+msgid "Review Overview"
+msgstr ""
+
+#: ../layouts/blog/left-sidebar-blog.php:201
+#: ../layouts/blog/no-sidebar-blog.php:177
+#: ../layouts/blog/right-sidebar-blog.php:195
+msgid "Sorry! No Results Found!"
+msgstr ""
+
+#: ../layouts/portfolio/content-related-posts-loop.php:59
+msgid "Recent Projects"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search here..."
+msgstr ""
+
+#: ../single-tmq-portfolio.php:68 ../single-tmq-portfolio.php:76
+msgid "No More Projects"
+msgstr ""
+
+#: ../single-tmq-portfolio.php:70
+msgid "Previous Project"
+msgstr ""
+
+#: ../single-tmq-portfolio.php:78
+msgid "Next Project"
+msgstr ""
+
+#: ../single-tmq-portfolio.php:129
+msgid "Back to Portfolio"
+msgstr ""
+
+#: ../single-tmq-portfolio.php:132
+msgid "Previous"
+msgstr ""
+
+#: ../single-tmq-portfolio.php:135
+msgid "Next"
+msgstr ""
+
+#: ../vc_templates/tmq_tab.php:13 ../vc_templates/vc_tab.php:7
+msgid "Empty section. Edit page to add content here."
+msgstr ""

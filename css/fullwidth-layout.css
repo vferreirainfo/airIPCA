@@ -1,0 +1,21 @@
+/* This file will enable full width layout for theme */
+.container {
+    max-width: 100% !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+	width: 100% !important;
+}
+.top-line .container {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+header {
+    left: 0 !important;
+    margin-left: auto !important;
+}
+ul.search-icons .search_topbar {
+	margin-top: 6px;
+}
+.tmq_toggle_bar {
+	display: none;
+}
